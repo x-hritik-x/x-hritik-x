@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @x-hritik-x
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning JAVA, JavaScript, etc.
+- 👋 Hi, I’m Hritik 
+- 👀 I’m interested in becoming a Software Engineer
+- 🌱 I’m currently learning JavaScript, TypeScript, React.js, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
